@@ -1,0 +1,511 @@
+{
+
+
+    "aliaga": [
+    {
+      "name": "Kyme Antik Kenti",
+      "description": "Antik dönem kenti kalıntıları…",
+      "images": ["https://…/kyme1.jpg","https://…/kyme2.jpg"],
+      "point": 5.0,
+      "location": {"lat":38.6870,"lng":26.8962}
+    },
+    { 
+
+      "name": "Uçansu Şelalesi",
+      "description": "Doğanın kalbinde bir cennet…",
+      "images": ["https://…/liman1.jpg","https://…/liman2.jpg"],
+      "point": 4.5,
+      "location": {"lat":38.6880,"lng":26.8970}
+    }
+  ],
+
+    "balcova": [ 
+
+    {
+      "name": "Agamemnon Kaplıcaları",
+      "description": "Şifalı suların kaynağı…",
+      "images": ["https://…/termal1.jpg","https://…/termal2.jpg"],
+      "point": 4.8,
+      "location": {"lat":38.4190,"lng":27.1000}
+    },
+    {
+      "name": "İzmir Teleferik",
+      "description": "Şehri kuşbakışı görmek için harika bir fırsat…",
+      "images": ["https://…/teleferik1.jpg","https://…/teleferik2.jpg"],
+      "point": 4.7,
+      "location": {"lat":38.4195,"lng":27.1010}
+    },
+    {
+      "name": "İnciraltı Sahili",
+      "description": "Sahil boyunca yürüyüş yapabileceğiniz harika bir yer…",
+      "images": ["https://…/teleferik1.jpg","https://…/teleferik2.jpg"],
+      "point": 4.7,
+      "location": {"lat":38.4195,"lng":27.1010}
+    }
+  ],
+
+    "bayrakli": [
+    {
+      "name": "Bayraklı Höyüğü",
+      "description": "İzmir'in tarihi kalıntıları…",
+      "images": ["https://…/kadifekale1.jpg","https://…/kadifekale2.jpg"],
+      "point": 4.6,
+        "location": {"lat":38.4190,"lng":27.1000}
+    }
+    
+  
+
+    ],
+
+    "bergama": [
+        {
+        "name": "Bergama Akropolü",
+        "description": "Antik Bergama'nın kalıntıları…",
+        "images": ["https://…/bergama1.jpg","https://…/bergama2.jpg"],
+        "point": 4.9,
+        "location": {"lat":39.1280,"lng":27.1830}
+        },
+        {
+        "name": "Asklepion Tapınağı",
+        "description": "Antik tıbbın merkezi…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Kızıl Avlu Bazilika",
+        "description": "Antik Roma dönemine ait kalıntılar…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Pergamon Antik Kenti",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+
+    ],
+
+    "bornova": [
+        {
+        "name": "Bornova Büyük Çarşı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Homeros Vadisi",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Tarihi Levanten Köşkleri",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+    ],
+
+    "buca": [
+        {
+        "name": "Forbes Köşkü",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Kaynaklar Köyü ve Doğa Yürüyüş Alanları",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Şirinyer Hipodromu",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Tarihi Rum Evleri",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+    ],
+
+    "cesme": [
+        {
+        "name": "Alaçatı",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Alaçatı Yer Değirmeni",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Çeşme Kalesi",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Ilıca Sahil",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+    ],
+
+    "foca": [
+        {
+        "name": "Eski Foça Taş Evleri",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Foça Kalesi",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Foça Limanı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+    ],
+
+    "gaziemir": [
+        {
+        "name": "Sarnıç Piknik Alanı",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Sarnıç Antik Kenti",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+       
+    ],
+
+    "guzelbahce": [
+        {
+        "name": "Olivelo Park ve Zeytinlikler",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Yelki Köyü",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+       
+    ],
+
+    "karaburun": [
+        {
+        "name": "Manal Koyu",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Mordoğan Yat Limanı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Sarpıncık Feneri",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+       
+    ],
+
+    "karsiyaka": [
+        {
+        "name": "Bostanlı Gün Batımı Noktası",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Zübeyde Hanım Anıt Mezarı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+       
+    ],
+    
+    "konak": [
+        {
+        "name": "Agora Ören Yeri",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Hisar Cami",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Kadifekale",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Kemeraltı Çarşısı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Kordon Boyu",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Saat Kulesi Ve Konak Meydanı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Tarihi Asansör",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Tarihi Kızlarağası Hanı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+       
+    ],
+
+     "menderes": [
+        {
+        "name": "Gümüldür",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Özdere",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+       
+    ],
+
+    "narlidere": [
+        {
+        "name": "Narlıdere Cemevi",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Narlıdere Tabiat Parkı",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Narlıdere Tarihi Evleri",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+       
+    ],
+
+    "seferihisar": [
+        {
+        "name": "Akkum Plajı",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Sığacık Kalesi",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Teos Antik Kenti",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+        
+       
+    ],
+
+
+    "selcuk": [
+        {
+        "name": "Ayasuluk Tepesi",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Efes Antik Kenti",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Şirince",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Saint Jean Kilisesi",
+        "description": "Antik dönemin en önemli şehirlerinden biri…",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+    ],
+
+    "torbali": [
+        {
+        "name": "Metropolis Antik Kenti",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+       
+    ],
+
+    "urla": [
+        {
+        "name": "Bademler Köyü",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Limantepe Höyüğü",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        
+        {
+        "name": "Urla Bağ Yolu",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Urla İskele",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Urla Karantina Adası",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        },
+        {
+        "name": "Urla Sanat Sokağı",
+        "description": "",
+        "images": ["https://…/asklepios1.jpg","https://…/asklepios2.jpg"],
+        "point": 4.8,
+        "location": {"lat":39.1290,"lng":27.1840}
+        }
+       
+    ]
+
+
+
+
+
+
+}

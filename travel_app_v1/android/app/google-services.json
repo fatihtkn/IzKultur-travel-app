@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "799491703251",
+    "firebase_url": "https://deneme-1eb3a-default-rtdb.firebaseio.com",
+    "project_id": "deneme-1eb3a",
+    "storage_bucket": "deneme-1eb3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799491703251:android:aca70f2f2f5d38e1b7ef26",
+        "android_client_info": {
+          "package_name": "com.deneme.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-t74rG5yp4LINVHYMkYjb9dAl_ePf-Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799491703251:android:edd307262b310191b7ef26",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-t74rG5yp4LINVHYMkYjb9dAl_ePf-Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

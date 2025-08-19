@@ -1,0 +1,43 @@
+import 'dart:convert';
+import 'package:flutter/services.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+
+String slugify(String text) {
+  return text
+      .toLowerCase()
+      .replaceAll(' ', '_')
+      .replaceAll('ç', 'c')
+      .replaceAll('ğ', 'g')
+      .replaceAll('ı', 'i')
+      .replaceAll('ö', 'o')
+      .replaceAll('ş', 's')
+      .replaceAll('ü', 'u');
+}
+
+Future<void> bulkImport() async {
+  final db = FirebaseFirestore.instance;
+  final raw = await rootBundle.loadString('lib/assets/Jsons/places.json');
+  final data = jsonDecode(raw) as Map<String, dynamic>;
+
+  final batch = db.batch();
+  data.forEach((districtId, places) {
+    final dRef = db.collection('districts').doc(districtId);
+
+    for (var p in (places as List)) {
+      final pSlug = slugify(p['name']); // 🔥 slugify edilmiş ID
+      final pRef = dRef.collection('places').doc(pSlug);
+
+      batch.set(pRef, {
+        'name': p['name'],
+        'description': p['description'],
+        'images': List<String>.from(p['images']),
+        'point': p['point'],
+        'location': GeoPoint(p['location']['lat'], p['location']['lng']),
+        // 'createdAt': FieldValue.serverTimestamp(),
+      });
+    }
+  });
+
+  await batch.commit();
+  print("🎉 Veritabanı slugify edilmiş ID'lerle başarıyla yüklendi.");
+}
